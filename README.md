@@ -1,6 +1,8 @@
 # darkmode-html
 A simple way to toggle between Light/Dark Mode and Beautifully Designed using HTML, CSS and a little bit of Javascript, A single page with a button in the center and the sun icon on top, onClick the bg-color, button color changes and the sun icon rotates and disapear to show up the moon icon.
 
+<img src="Screenshot.png" width="500" >
+
 and that's it !
 
 # colors used
